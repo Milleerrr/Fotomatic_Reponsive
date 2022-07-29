@@ -1,6 +1,6 @@
 # Fotomatic_Reponsive
 
-Created a responosvie website at Desktop (1024px)
+Created a responsive website at Desktop (1024px)
 Tablet (768px) and Mobile (375px) dimenstions. I 
 applied the below specification as well.
 
